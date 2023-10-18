@@ -124,6 +124,11 @@ section h2 {
     background-color: #E9967A;
 }
 
+#tecnologia .articles article a {
+    background-color: rgba(63, 41, 15, 0.6);
+    color: black;
+}
+
 #entretenimento {
     background-color: #87CEFA;
 }
